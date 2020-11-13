@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "regenerator-runtime": "^0.13.7",
+    "tweezer.js": "^1.5.0"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10"
+  }
+}
