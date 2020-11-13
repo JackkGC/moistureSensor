@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,qBACI,eACJ,CAEA,gBACI,eACJ","file":"styles.eef88935.css","sourceRoot":"..","sourcesContent":[".increased-font-size {\r\n    font-size: 100px;\r\n}\r\n\r\n.huge-font-size {\r\n    font-size: 15rem;\r\n}"]}
